@@ -28,3 +28,6 @@ Currently focusing on smart contract development and local blockchain setup.
 
 ## License
 This project is licensed under the MIT License.
+
+## update
+_Last updated: 10 Dec 2025_
